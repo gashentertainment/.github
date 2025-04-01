@@ -19,8 +19,21 @@ Vindo do inglês, Gash significa corte, e é pra isso que fomos criados. Nos pro
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/napoleaoquezado"><img src="https://avatars.githubusercontent.com/u/102835435?v=4" width="100px;" alt="Napoleão Quezado"/><br /><sub><b>Napoleão Quezado</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/jotaeli"><img src="https://avatars.githubusercontent.com/u/100056719?v=4" width="100px;" alt="João Lucas"/><br /><sub><b>João Lucas</b></sub></a><br /></td>
+      <td align="center">
+        <a href="https://github.com/napoleaoquezado" style="text-decoration: none;">
+          <img src="https://avatars.githubusercontent.com/u/102835435?v=4" width="100px" style="border-radius: 50%;" alt="Napoleão Quezado"/>
+          <br />
+          <sub><b>Napoleão Quezado</b></sub>
+        </a>
+      </td>
+      <td width="20px"></td> <!-- Espaçamento entre as imagens -->
+      <td align="center">
+        <a href="https://github.com/jotaeli" style="text-decoration: none;">
+          <img src="https://avatars.githubusercontent.com/u/100056719?v=4" width="100px" style="border-radius: 50%;" alt="João Lucas"/>
+          <br />
+          <sub><b>João Lucas</b></sub>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
