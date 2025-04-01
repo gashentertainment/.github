@@ -16,7 +16,7 @@ Na Gash, antecipamos necessidades. Enquanto muitos se limitam a resolver problem
     <tr>
       <td align="center">
         <a href="https://github.com/napoleaoquezado">
-          <img src="https://avatars.githubusercontent.com/u/165116692?s=96&v=4" width="150" style="border-radius: 50%;"><br>
+          <img src="https://avatars.githubusercontent.com/u/165116692?v=4" width="150" style="border-radius: 50%;"><br>
           <span style="color: white;">Napoleão Quezado</span>
         </a>
       </td>
