@@ -34,7 +34,7 @@ Vindo do inglês, Gash significa corte, e é pra isso que fomos criados. Nos pro
   </table>
 </p>
 
-<h3 align="center">Contate-nos:</h3>
+## • Contate-nos
 <div align="center">
 
 <a href="https://www.instagram.com/gash_productions/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
