@@ -1,17 +1,13 @@
-## Hey There 🦊
+# Gash Entertainment 🦊
 
+## • Quem Somos  
+Somos uma equipe especializada em desenvolvimento de software, criando soluções inteligentes que unem tecnologia e design. Com experiência tanto em programação quanto em UI/UX, nossos desenvolvedores dominam a arte de construir sistemas funcionais que também encantam pelos detalhes visuais.
 
-## • Quem Somos
+## • Nossa Filosofia  
+Na Gash, antecipamos necessidades. Enquanto muitos se limitam a resolver problemas existentes, nós criamos ferramentas que previnem desafios antes mesmo que eles surjam. Nossa abordagem combina eficiência técnica com uma obsessão por experiência do usuário.
 
-Somos uma empresa focada em programação, trazendo soluções criativas para os mais diversificados problemas. Já tendo atuado no design, nossos devs buscam encontrar o equilíbrio perfeito entre funcionalidade e beleza.
-
-
-## • Descrição
-Em nossa empresa, não vamos focar em reinventar a roda, nos preparamos para os problemas que você ainda não tem.
-
-
-## • Origem do nosso nome
-Vindo do inglês, Gash significa corte, e é pra isso que fomos criados. Nos propomos diariamente  a curar o ambiente digital, com nossas aplicações que vão fascinanar a todos, do mais sábio ao mais leigo.
+## • Origem do Nome  
+"Gash" vem do inglês "corte" - e esse é exatamente nosso propósito. Através da complexidade do mundo digital, oferecemos aplicações intuitivas que resolvem dores reais. Desenvolvemos software que fala tanto com especialistas quanto com iniciantes, porque a verdadeira tecnologia não precisa de manual para fazer sentido.
 
 ## • Squad
 
