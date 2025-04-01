@@ -22,7 +22,7 @@ Vindo do inglês, Gash significa corte, e é pra isso que fomos criados. Nos pro
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jotaeli" style="text-decoration: none;">
-    <img src="https://avatars.githubusercontent.com/u/100056719?v=4" width="150" style="border-radius: 50%;">
+    <img src="https://avatars.githubusercontent.com/u/100056719?v=4" width="150" style="border-radius: 50;">
     <p style="color: white; text-align: center;">João Lucas</p>
   </a>
 </p>
