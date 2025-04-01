@@ -16,22 +16,15 @@ Vindo do inglês, Gash significa corte, e é pra isso que fomos criados. Nos pro
 ## • Squad
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/napoleaoquezado">
-          <img src="https://avatars.githubusercontent.com/u/102835435?v=4" width="150" style="border-radius: 50%;"><br>
-          <span style="color: white;">Napoleão Quezado</span>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jotaeli">
-          <img src="https://avatars.githubusercontent.com/u/100056719?v=4" width="150" style="border-radius: 50%;"><br>
-          <span style="color: white;">João Lucas</span>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/napoleaoquezado" style="text-decoration: none;">
+    <img src="https://avatars.githubusercontent.com/u/102835435?v=4" width="150" style="border-radius: 50%;">
+    <p style="color: white; text-align: center;">Napoleão Quezado</p>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jotaeli" style="text-decoration: none;">
+    <img src="https://avatars.githubusercontent.com/u/100056719?v=4" width="150" style="border-radius: 50%;">
+    <p style="color: white; text-align: center;">João Lucas</p>
+  </a>
 </p>
 
 
